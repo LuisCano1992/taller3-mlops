@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/7b0704b2bc9a479c98e1dd3caa5ac1fe/artifacts
+end_time: 1764211309771
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: 7b0704b2bc9a479c98e1dd3caa5ac1fe
+run_name: enthused-horse-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211309456
+status: 3
+tags: []
+user_id: luisc

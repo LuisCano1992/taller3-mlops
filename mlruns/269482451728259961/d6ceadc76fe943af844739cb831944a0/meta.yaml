@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/d6ceadc76fe943af844739cb831944a0/artifacts
+end_time: 1764211314718
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: d6ceadc76fe943af844739cb831944a0
+run_name: unequaled-finch-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211314456
+status: 3
+tags: []
+user_id: luisc

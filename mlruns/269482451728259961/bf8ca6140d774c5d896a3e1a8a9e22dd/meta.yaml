@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/bf8ca6140d774c5d896a3e1a8a9e22dd/artifacts
+end_time: 1764211305719
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: bf8ca6140d774c5d896a3e1a8a9e22dd
+run_name: orderly-doe-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211305690
+status: 3
+tags: []
+user_id: luisc

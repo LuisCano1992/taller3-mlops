@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/f54b8e22b2f947bca0e4677b169d637e/artifacts
+end_time: 1764211305612
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: f54b8e22b2f947bca0e4677b169d637e
+run_name: shivering-zebra-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211305587
+status: 3
+tags: []
+user_id: luisc

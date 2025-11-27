@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/7c964477bed1486b8794649d6f7aabfe/artifacts
+end_time: 1764211305752
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: 7c964477bed1486b8794649d6f7aabfe
+run_name: popular-zebra-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211305726
+status: 3
+tags: []
+user_id: luisc

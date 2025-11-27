@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/57a857f7a6eb42999d71dc897233dd18/artifacts
+end_time: 1764211306651
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: 57a857f7a6eb42999d71dc897233dd18
+run_name: capricious-cat-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211306295
+status: 3
+tags: []
+user_id: luisc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/4c9add2dcc8b48b19fa15ee5b42d6427/artifacts
+end_time: 1764211312790
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: 4c9add2dcc8b48b19fa15ee5b42d6427
+run_name: blushing-lamb-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211312634
+status: 3
+tags: []
+user_id: luisc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/ababe7c422e54024b1270d187e21b9d0/artifacts
+end_time: 1764211307941
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: ababe7c422e54024b1270d187e21b9d0
+run_name: vaunted-kite-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211307839
+status: 3
+tags: []
+user_id: luisc

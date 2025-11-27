@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/luisc/Downloads/taller3-mlops/mlruns/269482451728259961/feecacd8664547e09ca8902c6d4b3125/artifacts
+end_time: 1764211314444
+entry_point_name: ''
+experiment_id: '269482451728259961'
+lifecycle_stage: active
+run_id: feecacd8664547e09ca8902c6d4b3125
+run_name: peaceful-fly-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764211314123
+status: 3
+tags: []
+user_id: luisc
