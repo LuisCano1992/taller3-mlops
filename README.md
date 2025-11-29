@@ -48,3 +48,13 @@ Se entrenaron 3 modelos (Hicimos un nivel elemental d eentrenamiento):
 ![alt text](image-1.png) swagger
 
 ![alt text](image-2.png) ml flow
+
+![alt text](image-3.png) s3
+
+![alt text](image-4.png) ec2
+
+![alt text](image-5.png) Mosaico AWS
+
+
+
+
